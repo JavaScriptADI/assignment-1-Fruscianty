@@ -12,3 +12,5 @@ console.log("Hello" + name + "!");
 const stringOne = "string and";
 const stringTwo = " second string";
 console.log(stringOne + stringTwo);
+
+name = tt;
